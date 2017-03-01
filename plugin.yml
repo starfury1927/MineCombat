@@ -3,7 +3,7 @@ version: "1.0"
 author: onebone
 authors: [onebone, Khinenw]
 main: onebone\minecombat\MineCombat
-api: [1.12.0]
+api: [3.0.0-ALPHA3, 3.0.0-ALPHA4]
 
 permissions:
  minecombat.*:
